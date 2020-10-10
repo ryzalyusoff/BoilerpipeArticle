@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'BoilerpipeArticle'
-  s.add_runtime_dependency "nokogiri", ["= 1.6.8"]
+  s.add_runtime_dependency "nokogiri", ["= 1.10.7"]
   s.add_runtime_dependency "mida", ["= 0.3.9"]
   s.required_ruby_version = '>= 1.9'
   s.version     = '0.1'
